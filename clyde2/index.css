@@ -1,0 +1,18 @@
+.container{
+    border: 1px solid #2c2c2c;
+    display: grid;
+    padding: 2rem;
+    position: fixed;
+    border-radius: 20px;
+    top: -20%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    background-color: aliceblue;
+    border: 1px solid;
+}
+body{
+    background-image: url(aa.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
